@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaveTheMovie
-- 👀 I’m interested in Risk, Finance, Machine Learning, BlockChain
-- 🌱 I’m currently learning BlockChain
-- 💞️ I’m looking to collaborate on Risk
+- 👀 I’m interested in Risk, Finance, Machine Learning
+- 🌱 I’m currently learning Transformer Models
+- 💞️ I’m looking to collaborate on LLMs
 - 📫 How to reach me davethemovie@gmail.com
 
 <!---
